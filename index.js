@@ -1,5 +1,5 @@
 const btn = document.querySelector(".btn");
 
 btn.onclick = () => {
-    alert("Тихон пидор");
+    alert("Тихон pidr");
 };
